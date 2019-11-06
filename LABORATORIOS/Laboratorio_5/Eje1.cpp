@@ -1,3 +1,9 @@
+//NOMBRE: DANIEL ALFREDO QUESADA CORTEZ
+//CARNET: 00147619
+
+//GUIA 4
+//EJERCICIO 1
+
 #include <iostream>
 using namespace std;
 
@@ -25,7 +31,7 @@ int main(){
     do{
         cout<<"\n============Menu============"  <<endl;
         cout<<"1. Insertar un Nuevo Nodo"       <<endl;
-        cout<<"2. Mostrar Arbol"                <<endl;
+        cout<<"2. Mostrar Arbol / #Nodos"       <<endl;
         cout<<"3. Buscar nodo"                  <<endl;
         cout<<"4. Cantidad de Niveles"          <<endl;
         cout<<"5. Suma de los Nodos"            <<endl;
