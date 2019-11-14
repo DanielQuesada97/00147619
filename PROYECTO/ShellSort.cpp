@@ -129,7 +129,7 @@ void listaSimple::shellSort(){
     
     cout << "\nArray after shell sort: \n";
 
-	for (int l = 0; l < 5; l++)
+	for (int l = 0; l < N; l++)
 		cout << array[l] << " ";
 }
 /////////////////////////////////////////////////////////////////////////////////////////////////////////
